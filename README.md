@@ -3,15 +3,25 @@
 使用方式很简单，直接在xml中引用就可以
 
 <com.example.customer.myapplication.weight.Lock9View
+
         android:layout_width="300dp"
+        
         android:layout_height="300dp"
+        
         app:nodeLineColor="@color/colorPrimary"
+        
         app:nodeLineWidth="5dp"
+        
         app:nodePadding="20dp"
+        
         app:errorNum="3"
+        
         app:minPoint="4"
+        
         app:normalDrawable="@drawable/chushi"
+        
         app:hightDrawable="@drawable/huizhi"
+        
         >
 
     </com.example.customer.myapplication.weight.Lock9View>

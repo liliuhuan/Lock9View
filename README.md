@@ -1,6 +1,7 @@
 # Lock9View
 九宫格手势密码
 使用方式很简单，直接在xml中引用就可以
+
 <com.example.customer.myapplication.weight.Lock9View
         android:layout_width="300dp"
         android:layout_height="300dp"
